@@ -10,7 +10,7 @@ The dashboard consists of three interactive report pages:
 
 **3. Detailed Drill-Through Analysis**
 
-**Key Performance Indicators (KPIs)**
+**Key Performance Indicators (KPIs) -**
 
 Total Bookings -	Total trips completed
 Total Booking Value -	Total revenue generated
@@ -19,7 +19,7 @@ Total Trip Distance -	Total distance travelled
 Average Trip Distance	- Average distance per trip
 Average Trip Time -	Average trip duration
 
-**Power BI Techniques Used**
+**Power BI Techniques Used -**
 
 - Data Modeling
 - Star-schema design
