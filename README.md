@@ -43,6 +43,11 @@ Average Trip Time -	Average trip duration
 
 FINAL OUTPUT
 
+
 <img width="1412" height="794" alt="Screenshot 2026-06-06 174412" src="https://github.com/user-attachments/assets/8e27d786-9e6d-4c2c-aa70-175508de2b14" />
+
+
 <img width="1407" height="786" alt="Screenshot 2026-06-06 174659" src="https://github.com/user-attachments/assets/ddb5daf8-6655-464e-8c7c-ed4c04bfe465" />
+
+
 <img width="1406" height="786" alt="Screenshot 2026-06-06 174447" src="https://github.com/user-attachments/assets/d7524dd4-ca55-48ff-8111-6c973766793f" />
