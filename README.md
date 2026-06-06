@@ -4,9 +4,11 @@ The solution was developed to transform raw trip data into actionable business i
 
 The dashboard consists of three interactive report pages:
 
-Overview Analysis
+**Overview Analysis
+
 Time Analysis
-Detailed Drill-Through Analysis
+
+Detailed Drill-Through Analysis**
 
 **Key Performance Indicators (KPIs)**
 
